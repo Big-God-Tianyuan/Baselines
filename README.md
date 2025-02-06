@@ -7,6 +7,10 @@
 
 ### KEAM 
 
+#### Data Process
+
+we show the sample data in the Data folder and how to get the sample data in data_process.ipynb
+
 
 #### Run
 
